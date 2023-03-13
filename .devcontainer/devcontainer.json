@@ -1,5 +1,6 @@
 {
-  "image": "docker://ubuntu",
+  "name": "gh_cs_test-devcontainer",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "features": {
   }
 }
